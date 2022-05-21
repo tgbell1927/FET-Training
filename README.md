@@ -1,2 +1,2 @@
-# FET-Training
-Training repository for GIS development at FET
+# Python AI Ml Learning
+Training repository for AI ML
